@@ -2,9 +2,7 @@
 از ماژول‌های random و names برای تولید داده‌ها و از کتابخانه‌ی clickhouse_connect برای اتصال و تعامل با پایگاه داده‌ی ClickHouse استفاده می‌شود.
 
 پیش‌نیازها
-نصب ClickHouse و اجرای آن
-نصب python
-نصب پکیج‌های موردنیاز: 
+نصب ClickHouse و اجرای آن -نصب python - نصب پکیج‌های موردنیاز: 
 pip install clickhouse-connect names
 
 **پروژه Project Assignments:**
