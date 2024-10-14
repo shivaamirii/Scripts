@@ -23,7 +23,7 @@ project_names = ["Alpha", "Beta", "Gamma", "Delta", "Epsilon", "Zeta", "Eta", "T
 data = []
 
 for id in range(1, 51):  
-    project = random.choice(project_names)  # انتخاب نام پروژه به‌صورت تصادفی از لیست
+    project = random.choice(project_names)  # choose random project name from list
     data.append((id, project))
 
 
