@@ -6,7 +6,7 @@ import names
 client = clickhouse_connect.get_client(host='192.168.100.217', port=8123)
 
 # Create table
-table_name = 'company1403'
+table_name = 'company'
 
 client.command(f'''
 CREATE TABLE IF NOT EXISTS {table_name} (
