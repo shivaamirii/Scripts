@@ -28,7 +28,7 @@ This script creates the company table and generates data with full names, depart
   python3 script_name.py
   ```
 
-After successful execution, the message "Data inserted successfully into ClickHouse!" will be displayed.
+> After successful execution, the message "Data inserted successfully into ClickHouse!" will be displayed.
 
 ## Output
 The output of both scripts is stored in their respective tables in ClickHouse, where they can be used for various data analyses.
