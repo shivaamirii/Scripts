@@ -26,7 +26,8 @@ This script creates the company table and generates data with full names, depart
 - Run each script as follows:
   ```sh
   python script_name.py
-```
+  ```
+
 After successful execution, the message "Data inserted successfully into ClickHouse!" will be displayed.
 
 ## Output
